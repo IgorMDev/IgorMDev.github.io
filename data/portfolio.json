@@ -1,0 +1,47 @@
+{
+  "title":"Portfolio",
+  "web": {
+    "title": "Web",
+    "list":[
+    {
+      "imgSrc": "codepen-logo.gif",
+      "title": "Codepen projects",
+      "desc": "This is my codepen projects and demos",
+      "link": "https://codepen.io/IgorMDev"
+    },
+    {
+      "imgSrc": "webpage.png",
+      "title": "Mobile store",
+      "desc": "This is template of an online store. It was my course work from web programming discipline in the university. Tech stack used: PHP, MySQL, jQuery",
+      "link": "https://mobilestore.zzz.com.ua"
+    },
+    {
+      "imgSrc": "webpage.png",
+      "title": "YouTube radio",
+      "desc": "Made on Vue.js. Searches live streams on Youtube and plays them",
+      "link": "https://ytradio.surge.sh"
+    }
+  ]},
+  "games": {
+    "title": "Games",
+    "list":[
+      {
+        "imgSrc": "paddleForceIcon.png",
+        "title": "Paddle Force",
+        "desc": "This is my first game made in Unity. There are DoTween plugin, google play services, localization and unity ads using in it.",
+        "link": "https://ihormdev.itch.io/paddle-force"
+      },
+      {
+        "imgSrc": "hbSc.png",
+        "title": "Hole ball",
+        "desc": "This is my game made with Cocos Creator and TypeScript. (It hasn't finished yet)",
+        "link": "https://igormdev.surge.sh/hb/"
+      },
+      {
+        "imgSrc": "donuts.png",
+        "title": "Donuts",
+        "desc": "Match3 game made on Phaser",
+        "link": "https://igormdev.github.io/Donuts"
+      }
+  ]}
+}

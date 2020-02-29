@@ -1,0 +1,18 @@
+{
+  "name": "Ihor Musikevych",
+  "prof": ["Web developer", "Game developer"],
+  "social": [
+  {"name": "github", "link": "https://github.com/IgorMDev"},
+  {"name": "linkedin", "link": "https://www.linkedin.com/in/igormdev/"},
+  {"name": "skype", "link": "https://join.skype.com/invite/a9ZCl4EpvIXE"}],
+  "desc": {
+    "title": ["About","Me"],
+    "text": "I'm a junior software developer, a highly motivated and hard-working person with a willingness to learn. I have a strong CS background and experience using cutting-edge development tools. Leverage technical, analytical and problem-solving skills to create dynamic and progressive apps. I'm passionate about full-stack web development and designing mini-games, casual games."
+  },
+  "infoList": [
+    {"key": "Age", "value": 21},
+    {"key": "Country", "value": "Ukraine"},
+    {"key": "Address", "value": "Lviv Region"},
+    {"key": "e-mail", "value": "igormusikevych@gmail.com"}
+  ]
+}
