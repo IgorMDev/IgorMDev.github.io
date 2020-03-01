@@ -26,36 +26,33 @@
     { "group":"Programming Languages",
       "list":[
       {"name":"C#","level":9},
-      {"name":"JavaScript(ES6+)","level":9},
-      {"name":"TypeScript","level":8},
-      {"name":"C++","level":6},
+      {"name":"JavaScript(ES6+)/TypeScript","level":9},
+      {"name":"C++","level":7},
+      {"name":"Java","level":7},
       {"name":"PHP","level":6}
     ]},
     { "group":"Web Development",
       "list":[
-      {"name":"ASP.NET Core","level":6},
-      {"name":"Entity Framework","level":5},
-      {"name":"Vue.js/Vuex/Router","level":8},
-      {"name":"Nuxt.js","level":5},
+        {"name":"ASP.NET Core","level":5},
+      {"name":"Vue.js","level":8},
       {"name":"jQuery","level":9},
       {"name":"HTML5","level":10},
       {"name":"CSS3","level":10},
-      {"name":"SCSS/LESS","level":7},
-      {"name":"Pug","level":10},
+      {"name":"Less/Sass","level":7},
+      {"name":"Pug(Jade)","level":9},
       {"name":"Bootstrap","level":8},
       {"name":"Webpack","level":5}
     ]},
     { "group":"Game Development",
       "list":[
       {"name":"Unity","level":7},
-      {"name":"Cocos Creator","level":7},
-      {"name":"Phaser","level":5}
+      {"name":"Cocos Creator","level":7}
     ]},
     { "group":"Languages",
       "list":[
       {"name":"Ukrainian","level":10},
       {"name":"Russian","level":9},
-      {"name":"English","level":6}
+      {"name":"English","level":5}
     ]}
   ]}
 }
