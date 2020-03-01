@@ -49,7 +49,7 @@
       },
       {
         "date": "2020",
-        "imgSrc": "donuts.png",
+        "imgSrc": "donutsSc.png",
         "title": "Donuts",
         "desc": "Match3 game made on Phaser",
         "link": "https://igormdev.github.io/Donuts",
