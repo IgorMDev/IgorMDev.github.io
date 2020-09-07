@@ -16,7 +16,7 @@
         "imgSrc": "webpage.png",
         "title": "YouTube radio",
         "desc": "Made on Vue.js. Searches live streams on Youtube and plays them",
-        "link": "https://igormdev.github.io/YouTubeRadio",
+        "link": "http://youradio.surge.sh/",
         "badges": ["HTML", "CSS", "Pug", "SCSS", "JS", "TypeScript", "REST API", "Vue", "Vuex", "Vue router", "Webpack"]
       }
     ]
