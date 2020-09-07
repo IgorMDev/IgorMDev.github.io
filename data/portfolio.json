@@ -3,31 +3,24 @@
   "web": {
     "title": "Web",
     "list":[
-    {
-      "date": "2016-2017",
-      "imgSrc": "codepen-logo.gif",
-      "title": "Codepen projects",
-      "desc": "This is my codepen projects and demos",
-      "link": "https://codepen.io/IgorMDev",
-      "badges": ["HTML", "CSS", "Pug", "LESS", "JS", "JSONP", "API"]
-    },
-    {
-      "date": "2017",
-      "imgSrc": "webpage.png",
-      "title": "Mobile store",
-      "desc": "This is template of an online store. It was my course work from web programming discipline in the university.",
-      "link": "https://mobilestore.zzz.com.ua",
-      "badges": ["HTML", "CSS", "JS", "jQuery", "PHP", "MySQL"]
-    },
-    {
-      "date": "2020",
-      "imgSrc": "webpage.png",
-      "title": "YouTube radio",
-      "desc": "Made on Vue.js. Searches live streams on Youtube and plays them",
-      "link": "https://ytradio.surge.sh",
-      "badges": ["HTML", "CSS", "Pug", "SCSS", "JS", "TypeScript", "REST API", "Vue", "Vuex", "Vue router", "Webpack"]
-    }
-  ]},
+      {
+        "date": "2016-2017",
+        "imgSrc": "codepen-logo.gif",
+        "title": "Codepen projects",
+        "desc": "This is my codepen projects and demos",
+        "link": "https://codepen.io/IgorMDev",
+        "badges": ["HTML", "CSS", "Pug", "LESS", "JS", "JSONP", "API"]
+      },
+      {
+        "date": "2020",
+        "imgSrc": "webpage.png",
+        "title": "YouTube radio",
+        "desc": "Made on Vue.js. Searches live streams on Youtube and plays them",
+        "link": "https://igormdev.github.io/YouTubeRadio",
+        "badges": ["HTML", "CSS", "Pug", "SCSS", "JS", "TypeScript", "REST API", "Vue", "Vuex", "Vue router", "Webpack"]
+      }
+    ]
+  },
   "games": {
     "title": "Games",
     "list":[
@@ -44,7 +37,7 @@
         "imgSrc": "hbSc.png",
         "title": "Hole ball",
         "desc": "This is my game made with Cocos Creator and TypeScript. (It hasn't finished yet)",
-        "link": "https://igormdev.surge.sh/hb/",
+        "link": "https://gamedistribution.com/games/hole-ball",
         "badges": ["Cocos creator", "TypeScript", "Game Design", "Local storage"]
       },
       {

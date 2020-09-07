@@ -13,13 +13,20 @@
   "experience":{
     "title": "Experience",
     "list":[
-    {
-      "title": "Freelance and non-commercial projects",
-      "period": "2015 - 2020",
-      "position": "Software developer",
-      "desc": "I have experience in university course projects, hackathons, olympiads, freelance and designing own projects."
-    }
-  ]},
+      {
+        "title": "Freelance and non-commercial projects",
+        "period": "2015 - 2020",
+        "position": "Software developer",
+        "desc": "I have experience in university course projects, hackathons, olympiads, freelance and designing own projects."
+      },
+      {
+        "title": "Viround",
+        "period": "2020-03 - 2020-08",
+        "position": "Front-end developer (Vue, Nuxt)",
+        "desc": "Worked on UI, UX. Integrated backend RESTful API. Set up third-party services."
+      }
+    ]
+  },
   "skills":{
     "title":"Skills",
     "list":[
@@ -41,7 +48,7 @@
       {"name":"jQuery","level":9},
       {"name":"Bootstrap","level":8},
       {"name":"Webpack","level":5},
-      {"name":"Nuxt.js","level":5},
+      {"name":"Nuxt.js","level":7},
       {"name":"ASP.NET Core","level":6},
       {"name":"Entity framework","level":5}
     ]},
