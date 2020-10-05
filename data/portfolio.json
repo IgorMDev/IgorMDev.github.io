@@ -36,7 +36,7 @@
         "date": "2019",
         "imgSrc": "hbSc.png",
         "title": "Hole ball",
-        "desc": "This is my game made with Cocos Creator and TypeScript. (It hasn't finished yet)",
+        "desc": "This is my game made with Cocos Creator and TypeScript.",
         "link": "https://gamedistribution.com/games/hole-ball",
         "badges": ["Cocos creator", "TypeScript", "Game Design", "Local storage"]
       },
